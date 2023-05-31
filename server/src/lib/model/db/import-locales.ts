@@ -112,6 +112,31 @@ const VARIANTS: Variant[] = [
     variant_name: 'Portuguese (Portugal)',
     variant_token: 'pt-PT',
   },
+  {
+    locale_name: 'ca',
+    variant_name: 'Tortosí',
+    variant_token: 'ca-tortosi',
+  },
+  {
+    locale_name: 'ca',
+    variant_name: 'Valencià central',
+    variant_token: 'ca-valcen',
+  },
+  {
+    locale_name: 'ca',
+    variant_name: 'Valencià septentrional',
+    variant_token: 'ca-valsep',
+  },
+  {
+    locale_name: 'ca',
+    variant_name: 'Valencià meridional',
+    variant_token: 'ca-valmer',
+  },
+  {
+    locale_name: 'ca',
+    variant_name: 'Alacantí',
+    variant_token: 'ca-alacanti',
+  },
 ];
 
 type Locale = {
